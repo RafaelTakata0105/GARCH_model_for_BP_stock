@@ -1,0 +1,17 @@
+[project]
+name = "garch-model-for-bp-stock"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "arch>=8.0.0",
+    "garch>=0.1",
+    "ipykernel>=7.2.0",
+    "matplotlib>=3.10.8",
+    "nbformat>=5.10.4",
+    "numpy>=2.4.3",
+    "pandas>=3.0.1",
+    "plotly>=6.6.0",
+    "yfinance>=1.2.0",
+]
